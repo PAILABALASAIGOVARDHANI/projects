@@ -1,0 +1,24 @@
+.Box{
+  display: inline-block;
+  height:350px;
+  width: 150px;
+  background-color: brown;
+  justify-content: center;
+  align-items: center;
+  border-radius:20px;
+  margin: 5px;
+  margin-bottom: 100%;
+}
+.Box>img{
+  height:100px;
+  width: 50px;
+  margin-top: 20%;
+  margin-left: 10%;
+  align-items: center;
+ 
+
+}
+.Box{
+  text-align: center;
+  color:aliceblue;
+}
